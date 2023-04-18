@@ -3,7 +3,6 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
         Pessoa[] pessoas = new Pessoa[10];
-        Bot[] bots = new Bot[10];
         Skin[] skins = new Skin[1];
         Mochila[] mochilas = new Mochila[1];
 
